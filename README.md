@@ -2,6 +2,8 @@
 
 Lightweight macOS floating HUD and menu bar monitor for **Claude Code** and **Antigravity** agent sessions.
 
+<a href="https://buymeacoffee.com/allanidrajith" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"></a>
+
 ![Dumpling HUD](assets/dumpling-hud.png)
 
 ## Features
@@ -62,6 +64,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-If you find Dumpling useful, you can support its development here:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-allanidrajith-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/allanidrajith)
+If you find Dumpling useful, you can [buy me a coffee](https://buymeacoffee.com/allanidrajith) to support its development.
