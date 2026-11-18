@@ -59,3 +59,9 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) and fo
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Support
+
+If you find Dumpling useful, you can support its development here:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-allanidrajith-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/allanidrajith)
