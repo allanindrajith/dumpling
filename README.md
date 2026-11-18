@@ -51,3 +51,11 @@ Lightweight macOS floating HUD and menu bar monitor for **Claude Code** and **An
 - `hooks/claude-hook.mjs` — Claude Code hook bridge forwarding events to the daemon
 - `scripts/install-hooks.mjs` — Helper to register hooks in `~/.claude/settings.json`
 - `start.sh` — Launches the daemon and builds/runs the HUD app
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) and follow our [Code of Conduct](CODE_OF_CONDUCT.md) when opening issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
